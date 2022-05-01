@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Benedict Chima Ogbulachi 
-- 👀 I’m interested in software development and graphic and ui designs
-- 🌱 I’m currently on my way to be a software developer, check my repositories for my journey.
-- 💞️ I’m looking to collaborate on projects and internships
+- 👀 I’m interested in software development, designs and engineering. 
+- 🌱 A life long learner, check my repositories for my projects and journey.
+- 💞️ I’m looking to collaborate on projects and internships, supporting partnerships for the goals. 
 - 📫 How to reach me on benedictogbulachi@gmail.com
 
 <!---
